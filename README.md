@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/imbrdn/news-homepage)
-- Live Site URL: [Add live site URL here](https:/imbrdn.github.io/news-homepage)
+- Solution URL: [Add solution URL here](https://github.com/imbrdn/news-homepage/)
+- Live Site URL: [Add live site URL here](https://imbrdn.github.io/news-homepage/)
 
 ## My process
 
